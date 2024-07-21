@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "dhsjkjkabkjs",
+    "db": "mongodb://localhost:27017/mymarketplace-backend"
+}
